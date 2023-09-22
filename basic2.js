@@ -23,3 +23,17 @@ do{
 }while(i>10)
 console.log(i)
 
+// For loop
+console.log("-----------")
+for (let k=0; k<=10; k++) {
+    console.log(k)
+}
+console.log("-----------")
+
+let required = true
+while(required)
+{
+
+    console.log(required)
+    required = false
+}
