@@ -26,5 +26,5 @@ console.log('gender' in person)// false because it not exist in object person
 // print all the values of the javascript object
 for(let key in person) {
     console.log(person[key]) // Tim Dane ,  Joe, 24
-   
+
 }
